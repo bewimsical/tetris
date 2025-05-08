@@ -2,7 +2,7 @@
 
 A desktop Tetris clone built using Python and Pygame.
 
-![Tetris Gameplay](tetris-demo.gif)
+![Tetris Gameplay](https://github.com/user-attachments/assets/bcacb5eb-9ebf-4b18-9c9d-24eecf6e3163)
 
 ## Features
 
@@ -13,6 +13,17 @@ A desktop Tetris clone built using Python and Pygame.
 - Pause and info screens
 - Game over and restart functionality
 - Background music and custom UI styling
+
+## 📄 Planning & Design
+
+This repository includes a PDF file, `Tetriminos - grid.pdf`, which documents the design of the game:
+
+- Grid layout planning
+- Tetrimino structure and rotation logic
+- Coordinate diagrams and implementation notes
+
+Feel free to open it to understand how the game logic was built from the ground up.
+
 
 ## Controls
 
