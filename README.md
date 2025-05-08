@@ -24,6 +24,8 @@ This repository includes a PDF file, `Tetriminos - grid.pdf`, which documents th
 
 Feel free to open it to understand how the game logic was built from the ground up.
 
+![Tetrimino Design Preview](https://github.com/user-attachments/assets/9bc3a676-b31e-424e-a3c5-d83aa4091bb0)
+
 
 ## Controls
 
